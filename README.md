@@ -7,4 +7,4 @@ Your file should look like this :
 `https://example.com|username|password`
 
 
-<a href="cpanelhttps://github.com/esfelurm/cpanel-checker/blob/main/Cpanel%20Free/50%20cpanel.txt">Download File free</a>
+<a href="https://github.com/esfelurm/cpanel-checker/blob/main/Cpanel%20Free/50%20cpanel.txt">Download Cpanel File free</a>
