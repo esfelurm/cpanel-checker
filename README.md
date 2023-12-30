@@ -17,5 +17,6 @@ git clone https://github.com/esfelurm/cpanel-checker
 cd cpanel-checker
 python cpanel-checker.py
 ```
+Bot's : Below 1000 
 
 input : Cpanel Free/50 cpanel.txt
